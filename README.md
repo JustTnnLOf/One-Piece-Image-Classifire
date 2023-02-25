@@ -1,5 +1,4 @@
 # One-Piece-Image-Classifire
-ADP Final I need 85+ pls)
 Name and Surname: Tynyshbay Nursultan
 Group:IT-2106
 One Piece Image Classifier Telegram Bot
